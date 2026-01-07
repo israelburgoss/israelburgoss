@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas, especializado en el desarrollo de apl
 
 ## 🛠️ Tecnologías y Lenguajes
 - **Dart** & **Flutter** (Desarrollo de apps móviles)
-- **PostgreSQL**
+- **Git**
 - **SQL**
 
 ## 💡 Habilidades
